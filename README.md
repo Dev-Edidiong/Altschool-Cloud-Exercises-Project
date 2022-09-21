@@ -1,2 +1,2 @@
 # Altschool-Cloud-Exercises-Project
-<My cloud journey >
+### My cloud journey in Altschool through exercises  
