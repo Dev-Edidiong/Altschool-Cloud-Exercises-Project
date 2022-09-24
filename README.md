@@ -12,7 +12,7 @@ Following the instructor's steps on LMS,I was able to successfully setup ubuntu 
 
 From vagrantup website ,I downloaded vagrant and configured with recommended version of ubuntu via the box.
 
-Running an **ls -al** command gave an ouput of a list of all my hidden files and directories.A screenshot of my vagrantfile is found below:
+Running an **ls -al** command gave an ouput of a list of all my hidden files and directories. A screenshot of my vagrantfile is found below:
 
 
 ![ifconfig](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/33769e2870f71e79454894ff1fb13809ac382451/Exercise%201/ifconfig.png) 
@@ -27,7 +27,7 @@ The customization of vagrant file as required was achieved by editing the vagran
 
 I replaced on the line that has **private_network, ip:"192.168.33.10" with private_network, type: dhcp**
 
-I ran vagarant ssh and ifconfig and the output was the screenshot below
+I ran vagarant ssh and ifconfig and the output was the screenshot below :
 
 ![vagrantfile](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/33769e2870f71e79454894ff1fb13809ac382451/Exercise%201/ifconfig.png)
 
