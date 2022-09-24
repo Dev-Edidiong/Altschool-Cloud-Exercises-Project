@@ -8,14 +8,14 @@
 #### Steps:
 
 
-> Following the instructor's steps on LMS,I was able to successfully setup ubuntu 20.04 lts on my machine by firstly,downloading and installing virtualbox then the necessary settings were enabled.
+Following the instructor's steps on LMS,I was able to successfully setup ubuntu 20.04 lts on my machine by firstly,downloading and installing virtualbox then the necessary settings were enabled.
 
-> From vagrantup website ,I downloaded vagrant and configured with recommended version of ubuntu via the box.
+From vagrantup website ,I downloaded vagrant and configured with recommended version of ubuntu via the box.
 
-> Running an ls-al command gave an ouput of a list of all my hidden files and directories.A screenshot of my vagrantfile is found below:
+Running an ls-al command gave an ouput of a list of all my hidden files and directories.A screenshot of my vagrantfile is found below:
 
 
-![screensh](https://imgur.com/59dqlk9) 
+![ifconfig](https://imgur.com/59dqlk9) 
 
 
 
@@ -23,13 +23,13 @@
 
 #### Steps
 
->The customization of vagrant file as required was achieved by editing the vagrantfile using nano editor.
+The customization of vagrant file as required was achieved by editing the vagrantfile using nano editor.
 
->I replaced on the line that has private_network,ip:"192.168.33.10" with private_network,type:dhcp
+I replaced on the line that has private_network,ip:"192.168.33.10" with private_network,type:dhcp
 
->I ran vagarant ssh and ifconfig and the output was the screenshot below
+I ran vagarant ssh and ifconfig and the output was the screenshot below
 
-![screensh](https://imgur.com/Qb3tL86)
+![vagrantfile](https://imgur.com/Qb3tL86)
 
 
 
