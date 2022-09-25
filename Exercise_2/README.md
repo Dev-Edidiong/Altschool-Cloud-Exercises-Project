@@ -83,7 +83,7 @@ The **Id** command without options shows the ID of current user UID and GID.
 
 **df** as a command without options displays the space available on all currently mounted file system.
 
-![df]()
+![df](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/c01887a2db78caa5ee0fa40bd83c6fe09b1c3f6b/Exercise_2/df.png)
 
 
 
