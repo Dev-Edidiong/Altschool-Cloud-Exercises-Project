@@ -14,7 +14,7 @@ Running an **ls-al** command gave an ouput of a list of all my hidden files and 
 A screenshot of my vagrantfile is found below:
 
 
-![ifconfig](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/bf3dfa20f271dc40b795da8027c4b1d21abe04ae/Exercise%201/ifconfig.png)
+![ifconfig]()
 
 ### Customization of Vagrant file
 
@@ -24,4 +24,4 @@ I replaced on the line that has **private_network, ip:"192.168.33.10" with priva
 
 I ran **vagarant ssh** to connect the VM using SSH ,installed net-tools then ran **ifconfig** and the output was the screenshot below:
 
-![vagrantfile]( )
+![vagrantfile](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/bf3dfa20f271dc40b795da8027c4b1d21abe04ae/Exercise%201/ifconfig.png)
