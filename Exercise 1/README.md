@@ -14,7 +14,7 @@ Running an **ls-al** command gave an ouput of a list of all my hidden files and 
 A screenshot of my vagrantfile is found below:
 
 
-![ifconfig]( )
+![ifconfig](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/bf3dfa20f271dc40b795da8027c4b1d21abe04ae/Exercise%201/ifconfig.png)
 
 ### Customization of Vagrant file
 
