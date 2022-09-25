@@ -53,13 +53,13 @@ This command is used to display dynamic real information about running processes
 
 
 
-**demidecode** 
+**dmidecode** 
 
 This command is rendered to as Desktop Management Interface table decoder, record data from DMI table and produce it in human readable format. Without options, this 
 
 command displays system's hardware related information such as processes, Ram(DIMMs), Bios detail, memory, serial numbers etc. 
 
-![demidecode]( )
+![dmidecode](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/949ebdc6c3b62cbc109a452b782f31be9dc1c59c/Exercise_2/demidecode.png)
 
 
 
