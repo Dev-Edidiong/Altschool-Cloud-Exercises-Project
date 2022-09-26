@@ -27,7 +27,7 @@ It is used to print out a list of all environmental variables.
 
 This command is basically used to view the previously executed command. It shows a whole list of the command. 
 
-![history]()
+![history](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/ac27942d76f976859ff2011eefd03029231e3bb9/Exercise_2/history.png)
 
 
 
