@@ -91,6 +91,6 @@ The **Id** command without options shows the ID of current user UID and GID.
 
 It is a command line tool in Linux, it lists the all-mounted file system on the system. 
 
-![findmnt]()
+![findmnt](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/50ce3ba8cbea9956f17e4783e1d6bb18849ef25f/Exercise_2/findmnt.png)
 
 
