@@ -67,7 +67,7 @@ command displays system's hardware related information such as processes, Ram(DI
 
 This command shows the running processes as a tree but in a hierarchical format. 
 
-![pstree]()
+![pstree](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/cc0a03e057f8d3316a05522bb62195186cb7f89e/Exercise_2/pstree.png)
 
 
 
