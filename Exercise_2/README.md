@@ -75,7 +75,7 @@ This command shows the running processes as a tree but in a hierarchical format.
 
 The **Id** command without options shows the ID of current user UID and GID.
 
-![Id]()
+![Id](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/dcb5e58e3d50e7e9f84afbf494d82b76df854846/Exercise_2/id.png)
 
 
 
