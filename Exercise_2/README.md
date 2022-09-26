@@ -11,7 +11,7 @@
 
 kernel name, Network node host name, kernel release date, kernel version, machine hardware name, hardware platform, operating system.
 
-![uname]()
+![uname](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/e18a4f10c59eada207b015bdcb553e6702c5f6ba/Exercise_2/uname%20-a.png)
 
 
 
