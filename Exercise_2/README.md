@@ -49,7 +49,7 @@ linked to any terminal in other words processes not initiated by users through a
 This command is used to display dynamic real information about running processes in the system.
 
 
-![top]()
+![top](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/138c25fe4b78d38e4abfb1ad9e19ded00048d9be/Exercise_2/top.png)
 
 
 
