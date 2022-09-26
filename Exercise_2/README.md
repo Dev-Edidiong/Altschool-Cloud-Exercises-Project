@@ -19,7 +19,7 @@ kernel name, Network node host name, kernel release date, kernel version, machin
 
 It is used to print out a list of all environmental variables. 
 
-![env]()
+![env](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/36c1b8195b17322601b2807d62cf5a8953b70768/Exercise_2/env.png)
 
 
 
