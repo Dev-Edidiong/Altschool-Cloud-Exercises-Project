@@ -40,7 +40,7 @@ However the **"ax"** option together with **ps** means that option  **"a"** list
 
 linked to any terminal in other words processes not initiated by users through a terminal. 
 
-![ps ax]()
+![ps ax](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/233feb5101127f09ddc8494d40a899027eaad2ef/Exercise_2/ps%20ax.png)
 
 
 
