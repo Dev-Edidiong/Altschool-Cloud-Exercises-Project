@@ -16,7 +16,7 @@ Step 5: Run `git global config` to set up my name and email.
 
 Step 6: Run `git config -l` to obtain the output below:
 
-![git.config-l]()
+![git.config-l](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/38db34bd0458fc5639b3b0d1a31c4018cd2741fc/Exercise_6/git.config-l.png)
 
 Step 7: Run `git remote -v`to get :
 
