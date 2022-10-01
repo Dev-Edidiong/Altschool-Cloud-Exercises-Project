@@ -24,4 +24,4 @@ Step 7: Run `git remote -v`to get :
 
 Step 8: Run `git log` to obtain :
 
-![gitlog]() 
+![gitlog](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/12ee4bea327ec3d721d08c639f9cd6bd39c6fc65/Exercise_6/gitlog.png) 
