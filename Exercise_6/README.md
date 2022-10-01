@@ -20,7 +20,7 @@ Step 6: Run `git config -l` to obtain the output below:
 
 Step 7: Run `git remote -v`to get :
 
-![git.remote-v]()
+![git.remote-v](https://github.com/Dev-Edidiong/Altschool-Cloud-Exercises-Project/blob/372be0e4a7512fe1f03a87af16bdf73d896f89ec/Exercise_6/git.remote-v.png)
 
 Step 8: Run `git log` to obtain :
 
